@@ -1,0 +1,29 @@
+C:\Users\David.000\source\repos\GoogleDriveSyncBlock\GoogleDriveSyncBlock\bin\Debug\GoogleDriveSyncBlock.exe.config
+C:\Users\David.000\source\repos\GoogleDriveSyncBlock\GoogleDriveSyncBlock\bin\Debug\GoogleDriveSyncBlock.exe
+C:\Users\David.000\source\repos\GoogleDriveSyncBlock\GoogleDriveSyncBlock\bin\Debug\GoogleDriveSyncBlock.pdb
+C:\Users\David.000\source\repos\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.csprojAssemblyReference.cache
+C:\Users\David.000\source\repos\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.Form1.resources
+C:\Users\David.000\source\repos\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.Properties.Resources.resources
+C:\Users\David.000\source\repos\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.csproj.GenerateResource.cache
+C:\Users\David.000\source\repos\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.csproj.CoreCompileInputs.cache
+C:\Users\David.000\source\repos\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.exe
+C:\Users\David.000\source\repos\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.pdb
+C:\Users\David.000\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\bin\Debug\GoogleDriveSyncBlock.exe.config
+C:\Users\David.000\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\bin\Debug\GoogleDriveSyncBlock.exe
+C:\Users\David.000\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\bin\Debug\GoogleDriveSyncBlock.pdb
+C:\Users\David.000\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.csprojAssemblyReference.cache
+C:\Users\David.000\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.Form1.resources
+C:\Users\David.000\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.Properties.Resources.resources
+C:\Users\David.000\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.csproj.GenerateResource.cache
+C:\Users\David.000\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.csproj.CoreCompileInputs.cache
+C:\Users\David.000\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.exe
+C:\Users\David.000\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.pdb
+C:\Users\David\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\bin\Debug\GoogleDriveSyncBlock.exe.config
+C:\Users\David\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\bin\Debug\GoogleDriveSyncBlock.exe
+C:\Users\David\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\bin\Debug\GoogleDriveSyncBlock.pdb
+C:\Users\David\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.csprojAssemblyReference.cache
+C:\Users\David\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.Form1.resources
+C:\Users\David\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.Properties.Resources.resources
+C:\Users\David\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.csproj.GenerateResource.cache
+C:\Users\David\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.exe
+C:\Users\David\Google Drive\Programmieren\GoogleDriveSyncBlock\GoogleDriveSyncBlock\obj\Debug\GoogleDriveSyncBlock.pdb

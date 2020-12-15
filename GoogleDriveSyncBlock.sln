@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleDriveSyncBlock", "GoogleDriveSyncBlock\GoogleDriveSyncBlock.csproj", "{19223FD0-EB3C-4061-9B4D-20D2CB89D574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19223FD0-EB3C-4061-9B4D-20D2CB89D574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19223FD0-EB3C-4061-9B4D-20D2CB89D574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19223FD0-EB3C-4061-9B4D-20D2CB89D574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19223FD0-EB3C-4061-9B4D-20D2CB89D574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3324384B-012E-4429-B0AF-9D54021E46B8}
+	EndGlobalSection
+EndGlobal
